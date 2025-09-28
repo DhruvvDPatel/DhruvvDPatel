@@ -3,44 +3,49 @@
 
 ---
 
-### 👨‍💻 About Me
-Hi, I’m [Dhruv Patel](https://dhruvvdpatel.github.io/dhruv-portfolio/), an undergraduate IT student passionate about building clean and responsive web applications. I enjoy turning ideas into interactive, user-friendly experiences using HTML, CSS, and JavaScript. With a growing interest in web technologies and design, I’m constantly learning, experimenting, and improving my skills to create projects that are both functional and visually appealing.
+## 👨‍💻 About Me  
+- 🎓 I’m currently pursuing **Information Technology (IT)**  
+- 🌱 Exploring **Frontend Development & Web Technologies**  
+- ⚡ Love building **clean, minimal & responsive** websites  
+- 🎯 Always eager to **learn, improve & share knowledge**  
 
 ---
 
-### 🛠️ Skills
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github" />
-</p>
+## 🛠️ Skills  
 
----
-
-### 📊 GitHub Stats
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?show_bg=1&username=dhruvvdpatel&hide_border=true&hide=contribs,issues&show_icons=true&include_all_commits=true&count_private=true&layout=default" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvvdpatel&langs_count=10&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="200">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode" />
 </p>
 
----
 
-### 📫 Connect With Me
-<p align="left">
-  <a href="nhttps://github.com/your-userame" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:yourmail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 
----
+## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>  
-  <b>Thanks for visiting my profile!</b>  
+
+  <!-- Profile Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DhruvvDPatel&show_icons=true&theme=radical&count_private=true&hide_border=true" height="160" />
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvvDPatel&theme=radical&hide_border=true" height="160" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvvDPatel&layout=compact&theme=radical&hide_border=true" height="160" />
+
+
 </div>
 
+---
+
+## 🤝 Let’s Connect  
+
+<p align="center">
+ 
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
+  </a>
+ <a href="https://ronakjpatel.in/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/portfolio-%236C63FF.svg?&style=for-the-badge&logo=internet-explorer&logoColor=white" height="25"></a> 
+<a href="https://www.linkedin.com/in/ronak-j-patel/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+<a href="https://www.instagram.com/_dhruv.patel__/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logoColor=white" height="25"></a>
+<a href="mailto:dhruvp4242@gmail.com"></a>
 
